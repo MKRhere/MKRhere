@@ -1,8 +1,8 @@
 ### Hi, MKRhere!
 
-Hello, I'm a 27 year old architect-turned-software-developer who specialises in TypeScript. I'm passionate about accessible and fast web services.
+I'm a 27 year old architect-turned-developer who specialises in TypeScript. I'm passionate about accessible and fast web services. Recently I've also begun experimenting with ⚡️ Zig!
 
-I got into active development 5 years ago, with my joining https://github.com/thedevs-network/. Since then, I've been an active open sourcer, working on many projects over the years. I've now focused down to three main projects I maintain:
+I got into active development 5 years ago, with my joining [The Devs Network](https://github.com/thedevs-network). Since then, I've been an active open sourcer, working on many projects over the years. I've now focused my attention down to three main projects I maintain:
 
 * **Telegraf**, the most popular Telegram bot API framework.
 * **Hyperactive**, a lean approach to a reactive UI library and webserver library (Deno-first).
