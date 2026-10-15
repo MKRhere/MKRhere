@@ -1,12 +1,15 @@
-### Hi, MKRhere!
+### Hi, MKR here!
 
-I'm a 29 year old architect-turned-developer who specialises in TypeScript. I'm passionate about accessible and fast web services. I occasionally experiment with ⚡️ Zig!
+I'm an architect-turned-developer who specialises in TypeScript. I'm passionate about accessible and fast web services. ⚡️ Zig is my choice when you gotta go fast!
 
-I got into active development 7 years ago, with my joining [The Devs Network](https://github.com/thedevs-network). Since then, I've been an active open sourcer, working on many projects over the years. I've now focused my attention down to three main projects I maintain:
+I got into active development in 2017, when I joined [The Devs Network](https://github.com/thedevs-network), and I've been an active open sourcer ever since. These days I run [Feathers Studio](https://github.com/feathers-studio), my independent studio for client work and open source. Some of my work:
 
-* [**Telegraf**](https://github.com/telegraf/telegraf), the most popular Telegram bot API framework.
-* [**Hyperactive**](https://github.com/feathers-studio/hyperactive), a lean approach to a reactive UI library and webserver library (Deno-first).
-* [**Telecraft**](https://github.com/MadrasMC/Telecraft), a Minecraft server management tool that wraps the server and integrates with plugins to provide offline auth, bridge to messengers, etc.
+* [**Telegraf**](https://github.com/telegraf/telegraf), the most popular Telegram Bot API framework for Node.js. I've led its maintenance since 2021.
+* [**comptime.ts**](https://github.com/feathers-studio/comptime.ts), Zig-style compile-time evaluation for TypeScript.
+* [**true-pg**](https://github.com/feathers-studio/true-pg), TypeScript, Kysely, and Zod types generated from a live Postgres schema.
+* [**storymap**](https://github.com/MadrasMC/storymap), a fast Vintage Story map renderer in Zig, built on a save format we reverse-engineered.
+
+There's plenty more at [mkr.pw/work](https://mkr.pw/work), and my resume is at [mkr.pw/resume.pdf](https://mkr.pw/resume.pdf).
 
 You can sponsor me through:
 * [GitHub Sponsors](https://github.com/sponsors/MKRhere/)
